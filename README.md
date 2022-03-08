@@ -1,1 +1,0 @@
-# ALX Script writing project
